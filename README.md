@@ -15,7 +15,7 @@ Simple and easy to use
 Python 3.x
 # Steps
  Clone the repository:
- git clone https://github.com/YOUR_USERNAME/network-scanner.git
+ git clone https://github.com/Samira-Gabr/network-scanner.git
  Navigate to the project directory:
  cd network-scanner
 # Usage
