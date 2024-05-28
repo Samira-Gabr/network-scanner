@@ -23,9 +23,10 @@ Run the tool:
 python network_scanner.py
 Enter the target IP address when prompted.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the existing style and includes appropriate tests.
+
 1.Fork the repository.
 
 2.Create a new branch (git checkout -b feature-branch).
