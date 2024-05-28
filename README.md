@@ -4,26 +4,26 @@
 ## Description
 Network Scanner is a simple penetration testing tool that scans for open ports on a target IP address. This tool is designed for educational purposes to help users learn about network scanning and basic network security.
 
-# Features
+## Features
 
 Scans ports in the range 1-1024
 Identifies open ports on the target IP address
 Simple and easy to use
 
-# Prerequisites
+## Prerequisites
 
 Python 3.x
-# Steps
+## Steps
  Clone the repository:
  git clone https://github.com/Samira-Gabr/network-scanner.git
  Navigate to the project directory:
  cd network-scanner
-# Usage
+## Usage
 Run the tool:
 python network_scanner.py
 Enter the target IP address when prompted.
 
-## Contributing
+### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the existing style and includes appropriate tests.
 1.Fork the repository.
@@ -39,5 +39,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 6.Create a new Pull Request.
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
