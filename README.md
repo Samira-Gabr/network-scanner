@@ -23,7 +23,7 @@ Run the tool:
 python network_scanner.py
 Enter the target IP address when prompted.
 
-# Example :
+## Example 
 
 $ python network_scanner.py
 Enter the IP address to scan: 192.168.1.1
@@ -35,7 +35,7 @@ Port 22: Open
 Port 80: Open
 Port 443: Open
 
-#Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the existing style and includes appropriate tests.
 1.Fork the repository.
