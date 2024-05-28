@@ -27,10 +27,17 @@ Enter the target IP address when prompted.
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the existing style and includes appropriate tests.
 1.Fork the repository.
+
 2.Create a new branch (git checkout -b feature-branch).
+
 3.Make your changes.
+
 4.Commit your changes (git commit -am 'Add new feature').
+
 5.Push to the branch (git push origin feature-branch).
+
+
 6.Create a new Pull Request.
-#License
+
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
