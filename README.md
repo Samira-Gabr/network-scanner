@@ -5,12 +5,14 @@
 Network Scanner is a simple penetration testing tool that scans for open ports on a target IP address. This tool is designed for educational purposes to help users learn about network scanning and basic network security.
 
 #Features
+
 Scans ports in the range 1-1024
 Identifies open ports on the target IP address
 Simple and easy to use
-#Installation
- #Prerequisites
- Python 3.x
+
+#Prerequisites
+
+Python 3.x
 
  #Steps
  Clone the repository:
